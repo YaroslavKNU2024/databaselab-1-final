@@ -1,0 +1,7 @@
+﻿  Virus database.c
+C:\Users\yasma\source\repos\Virus database\Variants.h(125,13): warning C4013: 'updateVirus' undefined; assuming extern returning int
+C:\Users\yasma\source\repos\Virus database\Checks.h(24,57): warning C4018: '>': signed/unsigned mismatch
+C:\Users\yasma\source\repos\Virus database\Checks.h(94,15): warning C4013: 'getVirus' undefined; assuming extern returning int
+C:\Users\yasma\source\repos\Virus database\Virus database.c(96,33): warning C4020: 'updateVariant': too many actual parameters
+C:\Users\yasma\source\repos\Virus database\Variants.h(224): warning C4716: 'deleteVariant': must return a value
+  Virus database.vcxproj -> C:\Users\yasma\source\repos\Virus database\Debug\Virus database.exe

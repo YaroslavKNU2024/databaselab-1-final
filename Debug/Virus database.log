@@ -1,0 +1,7 @@
+﻿  Virus database.c
+C:\Users\yasma\source\repos\Virus database\Variants.h(125,13): warning C4013: updateVirus: нет определения; предполагается "extern" с возвратом типа "int"
+C:\Users\yasma\source\repos\Virus database\Checks.h(24,57): warning C4018: >: несоответствие типов со знаком и без знака
+C:\Users\yasma\source\repos\Virus database\Checks.h(94,15): warning C4013: getVirus: нет определения; предполагается "extern" с возвратом типа "int"
+C:\Users\yasma\source\repos\Virus database\Input.h(10,6): warning C4101: status: неиспользованная локальная переменная
+C:\Users\yasma\source\repos\Virus database\Variants.h(224): warning C4716: deleteVariant: должна возвращать значение
+  Virus database.vcxproj -> C:\Users\yasma\source\repos\Virus database\Debug\Virus database.exe
